@@ -45,3 +45,16 @@ Use IntelliJ’s built-in REST client (.http files):
 
 GET http://localhost:8080/api/v1/software-engineers
 
+
+<img width="762" alt="Screenshot 2025-05-25 at 2 14 34 PM" src="https://github.com/user-attachments/assets/354482a7-9197-44c6-bdcd-f7b292a24e9e" />
+
+<img width="762" alt="Screenshot 2025-05-25 at 2 41 58 PM" src="https://github.com/user-attachments/assets/3a71cc98-c7e4-4018-82a8-ce514bb07468" />
+
+<img width="500" alt="Screenshot 2025-05-25 at 2 42 41 PM" src="https://github.com/user-attachments/assets/f87c4ae7-ffa3-43f4-944e-8db661fcdfbc" />
+
+<img width="730" alt="Screenshot 2025-05-25 at 2 52 30 PM" src="https://github.com/user-attachments/assets/8ab0c878-3bc4-4f12-9006-4b70befca421" />
+
+
+
+
+
